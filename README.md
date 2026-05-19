@@ -1,7 +1,23 @@
-Project: Cigarettes & Alcohol Addiction Analysis
+# Cigarettes & Alcohol Addiction Analysis
+Data analysis and visualization project on addiction and health data using Excel and Power BI.
 
-Tools used: Excel, Power BI
+## Dataset
+3,000-row dataset covering addiction behavior, demographics, lifestyle factors, and therapy outcomes.
 
-As a beginner in data analysis, I explored a real-world dataset of 3,000 individuals to understand patterns in smoking and drinking behavior. I cleaned and organized the data using Excel, then built a full report in Power BI showing how addiction relates to factors like BMI, diet, exercise, sleep, and mental health.
+## What this project covers
+- Cleaned and transformed raw data using Excel and Power Query
+- Analyzed demographics, addiction behavior, and therapy impact
+- Built a 1-page interactive Power BI report
 
-I used different types of charts like maps, scatter plots, and bar graphs to show relationships and outliers. This project helped me practice working with large datasets, building calculated columns, and designing an interactive dashboard that communicates meaningful health insights clearly.
+## Visualizations
+- Scatter plots for addiction vs lifestyle correlations
+- Bar charts for demographic breakdowns
+- DAX measures for calculated KPIs
+
+## Key Findings
+- Identified demographic groups with highest addiction rates
+- Analyzed therapy effectiveness across different patient profiles
+- Highlighted lifestyle factors most correlated with addiction behavior
+
+## Tools
+Microsoft Excel, Power Query, Power BI (DAX)
